@@ -1,5 +1,5 @@
 '
-'   Algoritm: http://zoologie.umons.ac.be/tc/algorithms.aspx
+'   Algorithm: http://zoologie.umons.ac.be/tc/algorithms.aspx
 '   Implemented by: Teun Reyniers
 '   The code is distributed as: GNU General Public License
 '
